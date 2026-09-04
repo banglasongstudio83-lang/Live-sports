@@ -1,0 +1,6 @@
+{
+  "name": "SportPulse - Multi-Sport Live Scores & News",
+  "description": "Professional multi-sport platform for live Cricket, Football, Basketball, Tennis, and F1 scores, news, tournament tables, player stats, and free predictions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
